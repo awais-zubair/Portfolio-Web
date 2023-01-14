@@ -30,8 +30,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+Mohammad Awais Zubair 
 
 
 Credits:
